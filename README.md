@@ -90,6 +90,7 @@ I'm actively building with **Large Language Models** — working with APIs (like
 ## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedKirate--hub-181717?style=for-the-badge&logo=github)](https://github.com/MohamedKirate-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Kirate-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
 
 ---
 
