@@ -91,7 +91,7 @@ I'm actively building with **Large Language Models** — working with APIs (like
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedKirate--hub-181717?style=for-the-badge&logo=github)](https://github.com/MohamedKirate-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Kirate-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
-
+[![mkirat's 42 stats](https://badge.mediaplus.ma/darkblue/mkirate)](https://github.com/oakoudad/badge42)
 ---
 
 <p align="center">
