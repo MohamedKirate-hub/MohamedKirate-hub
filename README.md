@@ -1,26 +1,47 @@
 # Hi there, I'm Mohamed Kirate 👋
 
-> *42 School student passionate about low-level programming and building things from scratch.*
+> *42 School student passionate about low-level programming, AI, and building things from scratch.*
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Currently studying at **42 School**
-- 💻 Focused on **systems programming** and **C development**
-- 🔧 I enjoy implementing standard library functions from scratch to understand how things really work under the hood
-- 🌱 Always learning — from memory management to data structures
-- 📊 Also exploring **data analysis** and real-world datasets
+- 💻 Strong foundation in **systems programming** and **C development**
+- 🤖 Exploring **AI & LLMs** — building projects with language model APIs and prompt engineering
+- 🧠 Interested in **data structures** (linked lists, graphs, trees) and how algorithms come to life in real code
+- 📊 Also into **data analysis** and working with real-world datasets
+- 🌱 Always learning — from memory management to machine intelligence
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Systems & Low-Level
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LThBOCA4IDAgMCAxIDEyIDR6Ii8+PC9zdmc+)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🧩 Areas of Interest
+
+```
+🔬 Systems Programming     ████████████░░░  C, memory, file I/O
+🤖 AI & LLMs               ████████░░░░░░░  APIs, prompting, integration
+🐍 Python Development       ████████░░░░░░░  scripting, data, AI projects
+📐 Data Structures          ██████████░░░░░  graphs, linked lists, trees
+📊 Data Analysis            ██████░░░░░░░░░  real-world datasets
+```
 
 ---
 
@@ -28,22 +49,31 @@
 
 ### 🔹 [libft](https://github.com/MohamedKirate-hub/libft)
 > A complete re-implementation of the C standard library.  
-Covers string manipulation, memory functions, character checks, integer conversion, and linked list utilities — all built from scratch without using `<string.h>` or similar headers.
+Covers string manipulation, memory functions, character checks, integer conversion, and linked list utilities — built from scratch without relying on standard headers.
 
 ### 🔹 [ft_printf](https://github.com/MohamedKirate-hub/printf)
-> Custom implementation of the C `printf` function.  
-Handles format specifiers, variadic arguments, and output formatting — a deep dive into how formatted output really works.
+> Custom implementation of C's `printf`.  
+Handles format specifiers, variadic arguments, and formatted output — a deep dive into how printing really works under the hood.
 
 ### 🔹 [get_next_line](https://github.com/MohamedKirate-hub/get_next_line)
-> A function that reads one line at a time from a file descriptor.  
-Requires careful buffer management and static variables — great exercise in understanding file I/O and memory in C.
+> Reads one line at a time from any file descriptor.  
+Careful buffer management and static variables — a great exercise in C file I/O and memory discipline.
 
 ### 🔹 [Doubly Linked List](https://github.com/MohamedKirate-hub/Doubly-Linked-list)
-> A manual implementation of a doubly linked list data structure in C.  
-Supports insertion, deletion, and traversal in both directions.
+> Manual implementation of a doubly linked list in C.  
+Supports bidirectional traversal, insertion, and deletion — part of a broader interest in data structures including **graphs** and **trees**.
 
 ### 🔹 [Global Happiness Indicators](https://github.com/MohamedKirate-hub/Global-Happiness-Indicators-OWID-project)
-> A data analysis project exploring global happiness metrics using the Our World in Data (OWID) dataset.
+> Data analysis project exploring global happiness metrics using the Our World in Data (OWID) dataset.  
+Combining Python and real-world data to surface meaningful patterns.
+
+---
+
+## 🤖 AI & LLM Interests
+
+I'm actively building with **Large Language Models** — working with APIs (like OpenAI), experimenting with **prompt engineering**, and exploring how LLMs can be integrated into practical applications. I'm drawn to the intersection of classical computer science (algorithms, data structures like graphs) and modern AI.
+
+> *How do you represent knowledge? A graph. How do LLMs reason? Also, kind of a graph. Coincidence? I think not.*
 
 ---
 
@@ -63,5 +93,5 @@ Supports insertion, deletion, and traversal in both directions.
 ---
 
 <p align="center">
-  <i>"The best way to learn C is to write C."</i>
+  <i>"From raw memory in C to reasoning with LLMs — it's all just data and logic."</i>
 </p>
