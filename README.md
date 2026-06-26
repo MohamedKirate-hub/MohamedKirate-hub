@@ -1,15 +1,14 @@
 # Hi there, I'm Mohamed Kirate 👋
 
-> *42 School student passionate about low-level programming, AI, and building things from scratch.*
+> *42 School student passionate about High-level programming, AI, and building things from scratch.*
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Currently studying at **42 School**
-- 💻 Strong foundation in **systems programming** and **C development**
-- 🤖 Exploring **AI & LLMs** — building projects with language model APIs and prompt engineering
-- 🧠 Interested in **data structures** (linked lists, graphs, trees) and how algorithms come to life in real code
+- 💻 Strong foundation in **systems programming** and **C development** and **Python**
+- 🤖 Exploring **AI & LLMs** — building projects with language model APIs
 - 📊 Also into **data analysis** and working with real-world datasets
 - 🌱 Always learning — from memory management to machine intelligence
 
@@ -17,15 +16,17 @@
 
 ## 🛠️ Tech Stack
 
-### Systems & Low-Level
+### Systems & Programming Language
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LThBOCA4IDAgMCAxIDEyIDR6Ii8+PC9zdmc+)
+![AI](https://img.shields.io/badge/AI-LLM_Concepts-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Function_Calling-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge&logo=qwen&logoColor=white)
+![Hosted on Hugging Face](https://img.shields.io/badge/Hosted%20on-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,9 +39,9 @@
 ```
 🔬 Systems Programming     ████████████░░░  C, memory, file I/O
 🤖 AI & LLMs               ████████░░░░░░░  APIs, prompting, integration
-🐍 Python Development       ████████░░░░░░░  scripting, data, AI projects
-📐 Data Structures          ██████████░░░░░  graphs, linked lists, trees
-📊 Data Analysis            ██████░░░░░░░░░  real-world datasets
+🐍 Python Development      ████████░░░░░░░  scripting, data, AI projects
+📐 Data Structures         ██████████░░░░░  graphs, linked lists, trees
+📊 Data Analysis           ██████░░░░░░░░░  real-world datasets
 ```
 
 ---
